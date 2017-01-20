@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+body{background: url('../images/img.png');}
+.container{width: 60%;}
+.content{width: 60%; height: 700px; border:1px solid #000; margin: 0 auto; margin-top: 77px; background-color: rgba( 255, 255, 255, 0.5 ); padding-top: 47px; padding-left: 52px; padding-right: 52px;}
+
+/*header*/
+.logo{width: 30%; height: 80px; float: left; margin-right: 167px;}
+.nav{width: 50%; float: left; margin-top: 23px;}
+.nav li{width: 25%; list-style: none; float: left; text-align: center;}
+
+/*content*/
